@@ -1,0 +1,35 @@
+{
+  "title": "工作",
+  "author": "若非",
+  "description": "工作汇总",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "INTRO.md",
+    "glossary": "GLOSSARY.md"
+  },
+  "plugins": [
+    "-sharing",
+    "code",
+    "search-pro",
+    "chapter-fold",
+    "popup",
+    "advanced-emoji",
+    "edit-link",
+    "github",
+    "hide-element",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/smpower/work/blob/gitbook",
+      "label": "编辑本页"
+    },
+    "github": {
+      "url": "https://github.com/smpower/work.git"
+    },
+    "hide-element": {
+      "elements": [".gitbook-link"]
+    }
+  }
+}
