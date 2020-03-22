@@ -1,0 +1,4 @@
+# work robots.txt
+User-agent: *
+Disallow: /
+
